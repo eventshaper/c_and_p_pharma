@@ -1,5 +1,5 @@
 # Jekyll settings
-theme: jekyll-theme-minimal # in order to change template locally make change also in Gemfile
+theme: jekyll-theme-time-machine
 
 defaults:
   -
