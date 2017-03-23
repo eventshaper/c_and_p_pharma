@@ -10,11 +10,11 @@ defaults:
 
 # Website values
 use_header: True # title & description displayed
-title: Title # (optional) use for events list title or organization name
-description: Organization name # (optional) use for events list title or organization name
+title: Konferencje dla lekarzy # (optional) use for events list title or organization name
+description: C&P Pharma # (optional) use for events list title or organization name
 footer_content: # Add footer data if needed
 
 # Eventshaper data
-domain: http://lvh.me:3000 # lvh.me example data
-hash: zmkg3b97omvtylnx # lvh.me example data
-locale: pl # locale to use for translations
+domain: https://eventshaper.pl
+hash: 9hyyv8bmuhh59xtj
+locale: pl
