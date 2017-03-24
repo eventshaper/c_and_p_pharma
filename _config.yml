@@ -1,6 +1,4 @@
 # Jekyll settings
-theme: jekyll-theme-minimal
-
 defaults:
   -
     scope:
@@ -8,13 +6,25 @@ defaults:
     values:
       layout: base # Comment out this to see how gem template default.html layout looks (works only with README.md)
 
+copyright:
+  year:             2017
+  name:             eventshaper
+
+# Sass
+sass:
+  sass_dir:         _sass
+  style:            :compressed
+
+# Google-analytics
+google-analytics:
+  id:               ""
+
 # Website values
 use_header: True # title & description displayed
 title: Konferencje dla lekarzy # (optional) use for events list title or organization name
 description: C&P Pharma # (optional) use for events list title or organization name
-footer_content: # Add footer data if needed
 
 # Eventshaper data
 domain: https://eventshaper.pl
-hash: 9hyyv8bmuhh59xtj
+hash: b12ne2vebrambos2
 locale: pl
