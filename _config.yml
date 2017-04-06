@@ -21,8 +21,8 @@ google-analytics:
 
 # Website values
 use_header: True # title & description displayed
-title: Konferencje dla lekarzy # (optional) use for events list title or organization name
-description: C&P Pharma # (optional) use for events list title or organization name
+title: Warsztaty praktyczne dla Lekarzy # (optional) use for events list title or organization name
+description: C&P Pharma Solution # (optional) use for events list title or organization name
 
 # Eventshaper data
 domain: https://eventshaper.pl
