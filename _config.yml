@@ -8,7 +8,8 @@ defaults:
 
 copyright:
   year:             2017
-  name:             eventshaper
+  name:             C&P Pharma Solution
+  url:              http://cp-pharma.pl
 
 # Sass
 sass:

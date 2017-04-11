@@ -375,4 +375,12 @@ body {
       margin: 4px;
     }
   }
+
+  .copyright-url {
+    color: #343a40;
+    cursor: pointer;
+  }
+  .copyright-url:hover {
+    text-decoration: initial;
+  }
 }
